@@ -1,0 +1,26 @@
+
+{
+  "id": "/",
+  "name": "CAPWIND SRL | Team App",
+  "short_name": "CAPWIND",
+  "description": "CAPWIND SRL Employee and Operations Management",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#07111f",
+  "theme_color": "#153c72",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
